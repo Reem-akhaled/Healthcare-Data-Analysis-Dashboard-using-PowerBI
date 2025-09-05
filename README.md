@@ -5,10 +5,10 @@ insights into patient admissions, diagnoses, insurance coverage, and billing._
 
 #### 📊 Key Features
 
-**KPIs:** Average bill amount, average stay days, longest/shortest stay, and total patients admitted.
-**Admissions Analysis:** By department, diagnosis, gender, and insurance type.
-**Trends & Insights:** Financial and operational patterns to identify high-cost departments and patient flow changes.
-**Interactivity:* Filters for time, department, gender, and insurance type to allow customized exploration.
+- **KPIs:** Average bill amount, average stay days, longest/shortest stay, and total patients admitted.
+- **Admissions Analysis:** By department, diagnosis, gender, and insurance type.
+- **Trends & Insights:** Financial and operational patterns to identify high-cost departments and patient flow changes.
+- **Interactivity:** Filters for time, department, gender, and insurance type to allow customized exploration.
 
 #### 🎯 Purpose
 
