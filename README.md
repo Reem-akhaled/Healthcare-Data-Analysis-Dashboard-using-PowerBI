@@ -24,3 +24,6 @@ _The dashboard supports healthcare leaders in making faster, data-driven decisio
 - Data Cleaning & Modeling for accurate measures
 - DAX for KPI calculations
 - Data Visualization & Storytelling for clear insights
+
+#### 📸 Dashboard Preview
+![Dashboard Screenshot](Dashboard/Dashboard.PNG)
